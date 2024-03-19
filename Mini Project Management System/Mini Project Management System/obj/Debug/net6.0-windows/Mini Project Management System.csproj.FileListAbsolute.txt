@@ -1,0 +1,26 @@
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\Mini Project Management System.exe
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\Mini Project Management System.deps.json
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\Mini Project Management System.runtimeconfig.json
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\Mini Project Management System.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\Mini Project Management System.pdb
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.csproj.AssemblyReference.cache
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini_Project_Management_System.booking.resources
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini_Project_Management_System.CarWash.resources
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini_Project_Management_System.Form1.resources
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.csproj.GenerateResource.cache
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.AssemblyInfoInputs.cache
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.AssemblyInfo.cs
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.csproj.CoreCompileInputs.cache
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.csproj.CopyComplete
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\refint\Mini Project Management System.dll
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.pdb
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\Mini Project Management System.genruntimeconfig.cache
+H:\Projects Grade 12\March\Mini Project Management System\Mini Project Management System\obj\Debug\net6.0-windows\ref\Mini Project Management System.dll
